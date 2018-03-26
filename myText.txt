@@ -1,0 +1,1 @@
+El propositio de este texto es provar como funciona la clase XMLHttpRequest de HTML5...!
